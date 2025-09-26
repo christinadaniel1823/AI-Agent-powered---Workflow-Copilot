@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bio_001",
+    "domain": "biotech",
+    "title": "Protein Thermal Stability Assay",
+    "text": "Dilute protein, add dye, run temperature gradient, record fluorescence.",
+    "tags": ["assay","protein","thermal"]
+  },
+  {
+    "id": "materials_001",
+    "domain": "materials",
+    "title": "Lithium Battery Recycling",
+    "text": "Disassemble battery, separate cathode, leach metals with acid, recover lithium.",
+    "tags": ["recycling","lithium","battery"]
+  }
+]
